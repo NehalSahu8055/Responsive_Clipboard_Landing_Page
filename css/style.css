@@ -246,6 +246,9 @@ body{
         text-align: center;
         width: 100%;
     }
+      body{
+        background-image: url(../images/bg-header-mobile.png);
+    }
     #pg-1, #pg-5, #pg-3, #pg-4{
         padding:0 30px; 
     }
